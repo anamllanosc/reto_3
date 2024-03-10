@@ -6,7 +6,7 @@
 ```
 ```
 ### Diagrama de Clases
-```
+```mermaid
 classDiagram
     MenuItem --* Order
     
